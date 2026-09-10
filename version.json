@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/Kennarttechl/laundry-exe-setup/releases/download/v1.0.0/Laundry_Setup.exe",
+  "sha256": "sha256:<hash you generate from your actual Laundry_Setup.exe>",
+  "changelog": "Initial release"
+}
