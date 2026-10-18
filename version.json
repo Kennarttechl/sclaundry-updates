@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/Kennarttechl/laundry-exe-setup/releases/download/v1.0.0/Laundry_Setup.exe",
-  "sha256": "sha256:<hash you generate from your actual Laundry_Setup.exe>",
-  "changelog": "Initial release"
+  "version": "1.0.1",
+  "download_url": "https://github.com/Kennarttechl/sclaundry-exe-setup/releases/download/v1.0.1/EdibenLaundry_Setup_1.0.1.exe",
+  "sha256": "ed71a6f968b5954cfd03e20ab43dc564ac66d8ed41e347162b5e23ffd0075c46",
+  "changelog": "Fixed: black PostgreSQL window on startup"
 }
