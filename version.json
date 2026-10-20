@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/Kennarttechl/sclaundry-exe-setup/releases/download/v1.0.5/EdibenLaundry_Setup_1.0.5.exe",
-  "sha256": "0438817c99e427488b3d60cb0013c68cc41e5adbfb39cd9b9052df241618dc20",
+  "version": "1.0.6",
+  "download_url": "https://github.com/Kennarttechl/sclaundry-exe-setup/releases/download/v1.0.6/EdibenLaundry_Setup_1.0.6.exe",
+  "sha256": "a478ba494d7162a48654e98cfcc0cd04c66743b57b1cea629cadbc123e833e84",
   "changelog": "bug fix"
 }
 
